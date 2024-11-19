@@ -1,0 +1,1 @@
+{"control_x": {"frequency": 2, "magnitude": 1.0, "phase": 0, "harmonics": 1, "samples": 100, "include_even": true, "include_odd": true}, "control_y": {"frequency": 5, "magnitude": 1.0, "phase": 0, "harmonics": 1, "samples": 100, "include_even": true, "include_odd": true}}
